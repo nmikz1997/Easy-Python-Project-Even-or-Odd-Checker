@@ -40,13 +40,10 @@ if __name__ == "__main__":
 ---
 
 ## How to Run the Code
-1. Make sure you have Python installed on your computer.
-2. Copy and paste the code into a file named `even_or_odd_checker.py`.
-3. Open your terminal or command prompt, navigate to the folder containing the file, and run the command:
-   ```bash
-   python even_or_odd_checker.py
-   ```
-4. Observe the outputs for the test numbers included in the script.
+1. Go to [https://pythonid.com/](https://pythonid.com/).
+2. Create a new project, for example, "Even or Odd Checker".
+3. Copy the code into `main.py`.
+4. Press the Run button and check the results.
 
 ---
 
